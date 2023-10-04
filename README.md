@@ -25,3 +25,27 @@ Actividad 2 UF1 Evaluacion Inicial
  |Google Docs|✔️|
  |Google Slides|✔️|
  |Google Sheets|✔️|
+ |Google Calendar|📅|
+ |Google Meet|💻|
+ |...|...|
+
+ 6. Que es HTML?
+ ```
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+     <meta charset="UTF-8">
+     <meta http-equiv="X-UA-Comatible"content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+<body>
+</html>
+```
+ 7. Que es el CSS?
+ __CSS, en español «Hojas de estilo en cascada», es un lenguaje de diseño gráfico para definir y crear la presentación de un documento estructurado escrito en un lenguaje de marcado.__
+
+ 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
+ 
+![Esto es una foto](Foto.png)
